@@ -66,7 +66,6 @@
 			children = (
 				E9BEC33221E02127002E5EF4 /* Assets.xcassets */,
 				E9BEC33421E02127002E5EF4 /* LaunchScreen.storyboard */,
-				E9BEC33721E02127002E5EF4 /* Info.plist */,
 			);
 			path = "Supporting Files";
 			sourceTree = "<group>";
@@ -90,6 +89,7 @@
 		E9BEC32A21E02126002E5EF4 /* Todoey */ = {
 			isa = PBXGroup;
 			children = (
+				E9BEC33721E02127002E5EF4 /* Info.plist */,
 				E9BEC32B21E02126002E5EF4 /* AppDelegate.swift */,
 				E9B4088921F92292006900F7 /* Controllers */,
 				E9B4088A21F922A1006900F7 /* Views */,
